@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mapper.RootMapper">
+    <select id="find" resultType="root">
+        select * from root where username= #{username} and password = #{password}
+    </select>
+
+    <select id="findUname" parameterType="string" resultType="int">
+        select count(0) from root where username = #{uname}
+    </select>
+</mapper>
