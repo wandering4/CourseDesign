@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CourseDesign:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53b50e68-2a9f-40ea-89c8-f4704643c401" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2gHFosdrSQ2ldZFQjK9vK4Mz3EW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp\static\js" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp\root" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp\static\css" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp\static\css" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp\static\js" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\src\main\webapp\static\img" />
+      <recent name="C:\Users\xzf\Desktop\课设\CourseDesign\target\CourseDesign\static\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.851">
+    <configuration name="TestDeptController.testDelDept" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseDesign" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDeptController" />
+      <option name="METHOD_NAME" value="testDelDept" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmpController.testModify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseDesign" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEmpController" />
+      <option name="METHOD_NAME" value="testModify" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPoi.createExcel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseDesign" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPoi" />
+      <option name="METHOD_NAME" value="createExcel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPoi.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseDesign" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPoi" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRootController.TestFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseDesign" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRootController" />
+      <option name="METHOD_NAME" value="TestFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.851" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.851" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CourseDesign:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/CourseDesign_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CourseDesign" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53734" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CourseDesign:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRootController.TestFind" />
+        <item itemvalue="JUnit.TestDeptController.testDelDept" />
+        <item itemvalue="JUnit.TestPoi.createExcel" />
+        <item itemvalue="JUnit.TestPoi.test" />
+        <item itemvalue="JUnit.TestEmpController.testModify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b50e68-2a9f-40ea-89c8-f4704643c401" name="Default Changelist" comment="" />
+      <created>1715346773288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715346773288</updated>
+      <workItem from="1715346776048" duration="6142000" />
+      <workItem from="1715389717576" duration="860000" />
+      <workItem from="1715390637439" duration="2652000" />
+      <workItem from="1715398458271" duration="855000" />
+      <workItem from="1715409709962" duration="7639000" />
+      <workItem from="1715417539806" duration="4239000" />
+      <workItem from="1715435602277" duration="3767000" />
+      <workItem from="1715439503559" duration="143000" />
+      <workItem from="1715488670336" duration="20899000" />
+      <workItem from="1715520816171" duration="6629000" />
+      <workItem from="1715572332788" duration="4951000" />
+      <workItem from="1715589701876" duration="3421000" />
+      <workItem from="1715594201677" duration="7844000" />
+      <workItem from="1715603905885" duration="237000" />
+      <workItem from="1715604297747" duration="4632000" />
+      <workItem from="1715610275214" duration="1184000" />
+      <workItem from="1715645893212" duration="5772000" />
+      <workItem from="1715652407453" duration="299000" />
+      <workItem from="1715652785511" duration="4208000" />
+      <workItem from="1715679797295" duration="13607000" />
+      <workItem from="1715738890514" duration="12345000" />
+      <workItem from="1715754409833" duration="4379000" />
+      <workItem from="1715760164095" duration="598000" />
+      <workItem from="1715764408462" duration="2238000" />
+      <workItem from="1715766691908" duration="4000" />
+      <workItem from="1715767880241" duration="1596000" />
+      <workItem from="1715771777773" duration="19000" />
+      <workItem from="1715773279514" duration="443000" />
+      <workItem from="1715775912686" duration="258000" />
+      <workItem from="1715848753336" duration="5691000" />
+      <workItem from="1715857665359" duration="377000" />
+      <workItem from="1715907931216" duration="4687000" />
+      <workItem from="1716004873204" duration="629000" />
+      <workItem from="1716013775215" duration="398000" />
+      <workItem from="1716016753936" duration="6591000" />
+      <workItem from="1716034408520" duration="688000" />
+      <workItem from="1716035941550" duration="320000" />
+      <workItem from="1716128124199" duration="628000" />
+      <workItem from="1716207731085" duration="97000" />
+      <workItem from="1716275789561" duration="7000" />
+      <workItem from="1716340443173" duration="1263000" />
+      <workItem from="1716348541711" duration="608000" />
+      <workItem from="1716349367825" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

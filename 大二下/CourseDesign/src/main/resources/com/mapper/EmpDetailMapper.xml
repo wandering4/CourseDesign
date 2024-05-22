@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mapper.EmpDetailMapper">
+
+    <insert id="addEmpDetail" parameterType="empDetail">
+        <!-- 插入Emp_Detail表的数据 -->
+        INSERT INTO emp_detail (EMPNO, gender, phone, mgr, hiredate, description, photo)
+        VALUES (#{empno}, #{gender}, #{phone}, #{mgr}, #{hireDate}, #{description}, #{photo});
+    </insert>
+
+    <update id="modifyEmpDetail" parameterType="empDetail">
+        UPDATE emp_detail SET  gender = #{gender}, phone = #{phone}, mgr =#{mgr}, hiredate =#{hireDate}, description =#{description}, photo =#{photo} WHERE EMPNO = #{empno}
+    </update>
+
+
+    <select id="findByEmpno" resultType="empDetail">
+        select * from emp_detail where empno = #{empno}
+    </select>
+
+
+</mapper>
